@@ -1,17 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6b00d3-c6c5-49db-bb30-d2b88058570b" name="Changes" comment="" />
+    <list default="true" id="4a6b00d3-c6c5-49db-bb30-d2b88058570b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ob-javaBasico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/AdiosMundo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/HolaMundo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionIfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/repeticion/RepeticionWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/repeticion/RepetionFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/repeticion/RepetionForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/funciones/Funciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/funciones/Funciones2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/funciones/SobreCarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/tiposdatos/Operaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/tiposdatos/Tipos.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Ipfg93I0vV92QcG0royS0OFeuH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +57,91 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/SISTEMAS/Tutoriales/CURSOS/Campus-bootcamp/ob-javaBasico",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.RepeticionWhile">
+    <configuration name="CondicionIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.estructurascontrol.condicionales.CondicionIfElse" />
+      <module name="ob-javaBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.estructurascontrol.condicionales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CondicionIfElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.estructurascontrol.condicionales.CondicionIfElseIf" />
+      <module name="ob-javaBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.estructurascontrol.condicionales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeticionWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.estructurascontrol.repeticion.RepeticionWhile" />
+      <module name="ob-javaBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.estructurascontrol.repeticion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepetionFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.estructurascontrol.repeticion.RepetionFor" />
+      <module name="ob-javaBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.estructurascontrol.repeticion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepetionForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.estructurascontrol.repeticion.RepetionForEach" />
+      <module name="ob-javaBasico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.estructurascontrol.repeticion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RepeticionWhile" />
+        <item itemvalue="Application.RepetionForEach" />
+        <item itemvalue="Application.RepetionFor" />
+        <item itemvalue="Application.CondicionIfElseIf" />
+        <item itemvalue="Application.CondicionIfElse" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +152,31 @@
       <updated>1670883558063</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/funciones/Funciones.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
