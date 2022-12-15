@@ -4,29 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6b00d3-c6c5-49db-bb30-d2b88058570b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ob-javaBasico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/AdiosMundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/HolaMundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionIfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/condicionales/CondicionSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/repeticion/RepeticionWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/repeticion/RepetionFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/estructurascontrol/repeticion/RepetionForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/funciones/Funciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/funciones/Funciones2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/funciones/SobreCarga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/tiposdatos/Operaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/tiposdatos/Tipos.java" afterDir="false" />
+    <list default="true" id="4a6b00d3-c6c5-49db-bb30-d2b88058570b" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/src/com/example/poo/clases/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/poo/clases/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/poo/clases/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/poo/herencia/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/poo/herencia/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/poo/herencia/Motocicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +51,11 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.poo.clases" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.RepeticionWhile">
     <configuration name="CondicionIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.estructurascontrol.condicionales.CondicionIfElse" />
@@ -151,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670883558063</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1671041344273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671041344273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +161,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
