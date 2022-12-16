@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a6b00d3-c6c5-49db-bb30-d2b88058570b" name="Changes" comment="Tipo de datos avanzados">
-      <change afterPath="$PROJECT_DIR$/src/com/example/Errores/GenerarExcepciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Errores/GestionErrores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Errores/TiposErrores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Errores/Warnings.java" afterDir="false" />
+    <list default="true" id="4a6b00d3-c6c5-49db-bb30-d2b88058570b" name="Changes" comment="Manejo de errores">
+      <change afterPath="$PROJECT_DIR$/datos.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/EntradaSalida/EntradaBufferInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/EntradaSalida/EntradaInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/EntradaSalida/EntradaScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/EntradaSalida/SalidaPrintStrem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/ejemploJSON/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/ejemploXML/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eventos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swingTax/MainForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swingTax/MainForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ob-javaBasico.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ob-javaBasico.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -38,33 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/SISTEMAS/Tutoriales/CURSOS/Campus-bootcamp/ob-javaBasico&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/SISTEMAS/Tutoriales/CURSOS/Campus-bootcamp/ob-javaBasico",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.poo.clases" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.EntradaSalida" />
       <recent name="com.example.Errores" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenerarExcepciones">
-    <configuration name="GenerarExcepciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Errores.GenerarExcepciones" />
+  <component name="RunManager" selected="Application.com.example.ejemploJSON.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eventos.Main" />
       <module name="ob-javaBasico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Errores.*" />
+          <option name="PATTERN" value="eventos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GestionErrores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Errores.GestionErrores" />
+    <configuration name="MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swingTax.MainForm" />
       <module name="ob-javaBasico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Errores.*" />
+          <option name="PATTERN" value="swingTax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipoBigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.tiposDatosAvanzados.TipoBigDecimal" />
+    <configuration name="SalidaPrintStrem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.EntradaSalida.SalidaPrintStrem" />
       <module name="ob-javaBasico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.tiposDatosAvanzados.*" />
+          <option name="PATTERN" value="com.example.EntradaSalida.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipoMapas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.tiposDatosAvanzados.TipoMapas" />
+    <configuration name="com.example.ejemploJSON.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ejemploJSON.Main" />
       <module name="ob-javaBasico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.tiposDatosAvanzados.*" />
+          <option name="PATTERN" value="com.example.ejemploJSON.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposErrores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Errores.TiposErrores" />
+    <configuration name="com.example.ejemploXML.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ejemploXML.Main" />
       <module name="ob-javaBasico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Errores.*" />
+          <option name="PATTERN" value="com.example.ejemploXML.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenerarExcepciones" />
-        <item itemvalue="Application.GestionErrores" />
-        <item itemvalue="Application.TiposErrores" />
-        <item itemvalue="Application.TipoMapas" />
-        <item itemvalue="Application.TipoBigDecimal" />
+        <item itemvalue="Application.com.example.ejemploJSON.Main" />
+        <item itemvalue="Application.com.example.ejemploXML.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainForm" />
+        <item itemvalue="Application.SalidaPrintStrem" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671138195626</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Manejo de errores">
+      <created>1671140900428</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671140900428</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +212,8 @@
     <MESSAGE value="Clases, objetos, herencia y polimorfismo" />
     <MESSAGE value="Interfaces" />
     <MESSAGE value="Tipo de datos avanzados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipo de datos avanzados" />
+    <MESSAGE value="Manejo de errores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manejo de errores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
